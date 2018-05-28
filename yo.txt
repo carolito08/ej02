@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 carolina
 
 
 diferente
+=======
+carolina 
+
+lo que sea
+
+que se queden los dos
